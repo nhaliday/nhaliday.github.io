@@ -1,7 +1,7 @@
 # Created by https://www.gitignore.io/api/vim,osx,emacs,haskell
 
-_site/
-_cache/
+/_site/
+/_cache/
 
 ### Vim ###
 [._]*.s[a-w][a-z]
